@@ -4,3 +4,4 @@ Liste de courses
 - pizza
 - gateau choco
 -glacons
+- serviettes
