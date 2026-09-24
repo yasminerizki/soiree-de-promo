@@ -2,3 +2,4 @@ Liste de courses
 -chips
 -jus de pomme
 - pizza
+- gateau choco
